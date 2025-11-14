@@ -1,8 +1,27 @@
-### 🛠️ Languages & Tools
+<!-- Header Section -->
+<h1 align="center">Zidan Khan</h1>
+<p align="center">
+  <strong>AI & Cloud Engineering • GenAI • RAG • LLM Pipelines</strong><br>
+  Building disciplined, structured, high-performance systems.
+</p>
+
+---
+
+## 🚀 About Me
+
+- CS Second Year • Mumbai, India  
+- Focused on **AI Engineering**, **Cloud**, and **Applied Machine Learning**  
+- Learning **Generative AI**, **Agentic AI**, **RAG**, **LangChain**, **AWS**  
+- I believe in **precision, discipline, and structured execution**  
+- My GitHub will soon reflect multi-domain mastery in AI + Cloud + Security  
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="left">
 
-  <!-- Skillicons (Clickable) -->
+  <!-- Icons -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" height="40" />
   </a>
@@ -33,7 +52,7 @@
 
   <br><br>
 
-  <!-- Badges (Clickable) -->
+  <!-- Badges -->
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
   </a>
@@ -59,3 +78,32 @@
   </a>
 
 </p>
+
+---
+
+## 📈 What I'm Building Next
+
+- End-to-end **Generative AI Systems**  
+- **RAG Pipelines** deployed on cloud  
+- **Agentic AI Workflows** using LangChain / CrewAI  
+- Production-ready **FastAPI AI backends**  
+- Secure **AI + Cloud** architectures  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZidanKhan&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZidanKhan&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📬 Contact
+
+<p align="left">
+  <a href="mailto:your-email@example.com"><strong>Email me</strong></a>  
+</p>
+
+---

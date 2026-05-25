@@ -94,6 +94,12 @@
 
 ---
 
+##NEXT BIG INCOMING!
+
+- TeamCodeAI
+- an interactive coding practice software that helps user gain experience on how building softwares work in
+  teams
+
 ## 📊 GitHub Stats
 
 <p align="center">

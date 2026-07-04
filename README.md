@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>80 Contributions • Most Used Language: Python</strong>
+  <strong>170 Contributions • Most Used Language: Python</strong>
 </p>
 
 ---
